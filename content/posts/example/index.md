@@ -1,10 +1,10 @@
 +++
-title = "Example Post"
-date = "2023-01-01"
+title = "Anna Guggisberg Art"
+date = "2023-10-30"
 draft = false
 pinned = false
-tags = [ "Lilo", "Example" ]
-image = "/img/default-image.jpg"
+tags = ["Lilo", "Example"]
+image = "f1d62312-752c-4f59-9002-028339773825.jpeg"
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
