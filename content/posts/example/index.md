@@ -1,5 +1,5 @@
 +++
-title = "Anna Guggisberg Art"
+title = "Example Post"
 date = "2023-10-30"
 draft = false
 pinned = false
