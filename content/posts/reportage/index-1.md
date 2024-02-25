@@ -2,7 +2,7 @@
 title = "Reportage "
 date = "2024-02-25"
 draft = false
-pinned = false
+pinned = true
 +++
 # Zwischen Hoffnung und Zuhause: Die Rettungstätigkeit des Berner Tierzentrums
 
