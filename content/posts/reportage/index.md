@@ -6,6 +6,10 @@ pinned = false
 +++
 # Zwischen Hoffnung und Zuhause: Die Rettungstätigkeit des Berner Tierzentrums
 
+In der heutigen Welt, in der Millionen von Tieren ausgesetzt werden und auf der Strasse leben, bieten Tierheime nicht nur ein Dach über dem Kopf, sondern auch eine Chance auf ein neues Leben und ein liebevolles Zuhause. 
+
+Mit ihren offenen Türen für diejenigen, die verloren, vernachlässigt oder misshandelt wurden, haben Tierheime eine entscheidende Funktion für den Tierschutz und die Förderung von Adoptionen. Doch hinter den Mauern dieser Einrichtungen verbirgt sich weit mehr als nur temporäre Unterbringungsinstitution. Tierheime sind Orte der Hoffnung, des Mitgefühls und der Chance auf ein neues Leben für jedes Wesen, welches aufgenommen wird. 
+
 \
 Anna Guggisberg, Sarah Potjer ![](https://lh7-us.googleusercontent.com/WSf5tWKqbyccq6QJTeybJCmaQHzpFj8sg1UCLxRLzGdfga4tMUsKqOWNvcZH-KF11NQ6xhR7_hE5NnaKGuQ2-Qh1h9O9KiBqs9ANfevbpjuz0Sfh07iM-9ftTaSIwz1bHUsQVgvWjIe14BzxhYPOgw)
 
@@ -46,13 +50,13 @@ Als Erstes die Aufnahme. Im Tierzentrum gibt es einen Raum, zu dem die Polizei u
 
 Am Tag nach ihrer Aufnahme werden die Tiere von den Tierpflegenden versorgt. Der örtliche Tierarzt untersucht die Neulinge und stellt sicher, dass sie keine Krankheiten und Infektionen haben. Wenn die Tiere gesund sind, werden sie zu ihren Artgenossen gelassen, wo sie täglich betreut werden, bis sie eine passende Familie gefunden haben.
 
-Bei Hunden gibt es ein spezielles System, welches die Wiedereinführung  in die Gesellschaft  der Hunde ermöglicht. Alle Tierpflegenden bekommen einen Pflegehund , sie gewöhnen den Hund langsam wieder an die Umgebung. Bei der Zuweisung der Hunde wird, so gut es geht, auf die Kompatibilität von Mensch und Hund geachtet.![](https://lh7-us.googleusercontent.com/T09ugarbXr5JaLwS1WeiAyeI045wxK3lZTgjvjBdqX-C3_D6_92lcc1Llh-JH2zs0pJctCg646fOy_GBUFkks5gmQE0lIJgDMzV7nXsLsHt8FwZ0vh1Jx8Iu2xEj1q8sYq2mDIuFMvrjGcFIDaqWLw)
+Bei Hunden gibt es ein spezielles System, welches die Wiedereinführung  in die Gesellschaft  der Hunde ermöglicht. Alle Tierpflegenden bekommen einen Pflegehund , sie gewöhnen den Hund langsam wieder an die Umgebung. Bei der Zuweisung der Hunde wird, so gut es geht, auf die Kompatibilität von Mensch und Hund geachtet.
 
 Auch Jil Heimann hatte schon einige Pflegehunde, darunter auch Problemhunde wie Maddox. Maddox ist ein Mischlingshund aus Rumänien und wurde von Jil als Pflegehund aufgenommen. Er hatte unter anderem Schwierigkeiten mit anderen Hunden und musste fast alles von neu auf erlernen. Jil hat über ein Jahr mit Maddox trainiert und ihm so die für ihn neue und gefährliche Welt näher gebracht. 
 
 “Maddox kam schon zwei Mal von einem Probewohnen zurück,” berichtet Jil,” beim ersten Mal war er einfach zu wenig ausgelastet und hat Dinge kaputt gemacht. Ich hatte ihn schon öfters bei mir und dann war er ruhig, aber das liegt vermutlich daran, dass ich ihn richtig ausgelastet habe. Beim zweiten Mal war er zu kompliziert mit den anderen Hunden und die Frau, bei der er war, wusste nicht mehr weiter.” Das Training mit Maddox hat sich aber ausgezahlt, denn er hat im Januar 2024 eine neue Familie gefunden. 
 
-Maddox kam schon zwei Mal von einem Probewohnen zurück, beim ersten Mal war er einfach zu wenig ausgelastet und hat Dinge kaputt gemacht …(Jil Heimann)
+> Maddox kam schon zwei Mal von einem Probewohnen zurück, beim ersten Mal war er einfach zu wenig ausgelastet und hat Dinge kaputt gemacht …(Jil Heimann)
 
 Am Beispiel von Maddox kann man sehen, dass die Dauer bis zur Adoption stark variieren kann, aber eines bleibt: Die Adoptionsdauer eines Hundes ist viel länger als die einer Katze oder eines anderen Kleintiers. Dies hat  verschiedene Gründe: Einerseits lebt ein Hund häufig länger bei einer Familie als ein Kleintier, andererseits ist es oft wichtiger, eine gute Kompatibilität zu einem Hund zu haben, aus Gründen wie die Hundeführung. Aber insgesamt ist es nicht so wichtig, wie lange ein Tier auf seine Familie warten muss, solange die diese gut zu ihm passt. 
 
