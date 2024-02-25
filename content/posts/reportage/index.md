@@ -37,14 +37,7 @@ Das Berner Tierzentrum spielt nicht nur eine essenzielle Rolle bei der direkten 
 
 Dem Berner Tierzentrum ist auch sehr wichtig, dass Kinder lernen, wie sie richtig mit Tieren umgehen und was sie tun können, um Tieren zu helfen. Deshalb hat das Berner Tierzentrum den sogenannten Bubo-Club gegründet. Dieser bietet Kindern zwischen 9 und 13 Jahren die Möglichkeit, sich aktiv am Tierschutz zu beteiligen. Die Kinder lernen zum Beispiel Futterhäuser für Igel zu bauen, basteln Spielzeug für Tierheimkatzen oder besuchen eine Wildtierstation, in der kranke oder verlassene Wildtiere gepflegt und aufgezogen werden. Zudem gibt es Nachmittage, an denen die Kinder aktiv im Tierheim helfen. Diese Einblicke in die Arbeit des Tierzentrums fördern nicht nur das Verantwortungsbewusstsein der jungen Mitglieder, sondern tragen auch zur Schaffung einer tierfreundlichen Gemeinschaft bei.
 
-```
-{{<box>}}
-##### **Wie kann man das Berner Tierzentrum unterstützen?**
-Da es keine Unterstützung des Kantons erhält, spielen Spenden und Mitgliedschaften für das Tierzentrum eine entscheidende Rolle. Sehr willkommen sind Geldspenden, Futterspenden, aber auch Halsbänder etc. Das Tierzentrum informiert gerne darüber, was aktuell am dringendsten benötigt wird. Ein Anruf genügt!  Besondere Aufmerksamkeit gilt auch dem Chippen von Tieren, da das Tierzentrum viele Findeltiere betreut. Die Kennzeichnung durch einen Mikrochip hilft, verlorene Tiere zu identifizieren und sie sicher zurückzubringen. Jeder Beitrag, ob materiell oder immateriell, trägt dazu bei, das Wohlergehen der Tiere im Berner Tierzentrum zu fördern.
-{{</box>}}
-```
-
-**Wer** ein Tier in seiner Familie aufnehmen will, muss einiges beachtet werden. Dass der neue Besitzer gutes Futter hat, das Tier auf Krankheiten und Impfungen abgecheckt ist und am wichtigsten, dass das Tier und die Familie zusammenpassen. Aber das Tierheim selbst muss natürlich ebenfalls einige Dinge beachten, wie dass das Tier gut erzogen ist und die bestmöglichen Chancen hat in der Familie klarzukommen. Das Überprüfen der Passung von Tier und Mensch übernehmen im Tierzentrum Bern Tierpflegende wie Jil. Doch bevor ein Tier vermittelt werden kann, sind viele andere Dinge nötig. 
+Wer ein Tier in seiner Familie aufnehmen will, muss einiges beachtet werden. Dass der neue Besitzer gutes Futter hat, das Tier auf Krankheiten und Impfungen abgecheckt ist und am wichtigsten, dass das Tier und die Familie zusammenpassen. Aber das Tierheim selbst muss natürlich ebenfalls einige Dinge beachten, wie dass das Tier gut erzogen ist und die bestmöglichen Chancen hat in der Familie klarzukommen. Das Überprüfen der Passung von Tier und Mensch übernehmen im Tierzentrum Bern Tierpflegende wie Jil. Doch bevor ein Tier vermittelt werden kann, sind viele andere Dinge nötig. 
 
 Als Erstes die Aufnahme. Im Tierzentrum gibt es einen Raum, zu dem die Polizei uneingeschränkten Zugriff hat, denn es ist häufig sie, die ein Tier zum Tierzentrum bringen. Es ist ein kleiner Raum mit zwei kleinen Räumen für Hunde und einigen Gehegen für Katzen und Kleintiere, ausserdem ist er mit genug Grundausstattung wie Essen, Trinken, Katzenklo ausgestattet.  
 
