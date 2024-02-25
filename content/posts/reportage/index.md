@@ -6,13 +6,13 @@ pinned = false
 +++
 # Zwischen Hoffnung und Zuhause: Die Rettungstätigkeit des Berner Tierzentrums
 
+```
 {{<lead>}}
-
 In der heutigen Welt, in der Millionen von Tieren ausgesetzt werden und auf der Strasse leben, bieten Tierheime nicht nur ein Dach über dem Kopf, sondern auch eine Chance auf ein neues Leben und ein liebevolles Zuhause. 
 
 Mit ihren offenen Türen für diejenigen, die verloren, vernachlässigt oder misshandelt wurden, haben Tierheime eine entscheidende Funktion für den Tierschutz und die Förderung von Adoptionen. Doch hinter den Mauern dieser Einrichtungen verbirgt sich weit mehr als nur temporäre Unterbringungsinstitution. Tierheime sind Orte der Hoffnung, des Mitgefühls und der Chance auf ein neues Leben für jedes Wesen, welches aufgenommen wird. 
-
 {{</lead>}}
+```
 
 \
 Anna Guggisberg, Sarah Potjer ![](https://lh7-us.googleusercontent.com/WSf5tWKqbyccq6QJTeybJCmaQHzpFj8sg1UCLxRLzGdfga4tMUsKqOWNvcZH-KF11NQ6xhR7_hE5NnaKGuQ2-Qh1h9O9KiBqs9ANfevbpjuz0Sfh07iM-9ftTaSIwz1bHUsQVgvWjIe14BzxhYPOgw)
