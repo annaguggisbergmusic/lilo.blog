@@ -6,11 +6,15 @@ pinned = false
 +++
 # Zwischen Hoffnung und Zuhause: Die Rettungstätigkeit des Berner Tierzentrums
 
-{{</lead>}}\
+{{<lead>}}
+
 In der heutigen Welt, in der Millionen von Tieren ausgesetzt werden und auf der Strasse leben, bieten Tierheime nicht nur ein Dach über dem Kopf, sondern auch eine Chance auf ein neues Leben und ein liebevolles Zuhause. 
 
 Mit ihren offenen Türen für diejenigen, die verloren, vernachlässigt oder misshandelt wurden, haben Tierheime eine entscheidende Funktion für den Tierschutz und die Förderung von Adoptionen. Doch hinter den Mauern dieser Einrichtungen verbirgt sich weit mehr als nur temporäre Unterbringungsinstitution. Tierheime sind Orte der Hoffnung, des Mitgefühls und der Chance auf ein neues Leben für jedes Wesen, welches aufgenommen wird. 
 
+{{</lead>}}
+
+\
 Anna Guggisberg, Sarah Potjer ![](https://lh7-us.googleusercontent.com/WSf5tWKqbyccq6QJTeybJCmaQHzpFj8sg1UCLxRLzGdfga4tMUsKqOWNvcZH-KF11NQ6xhR7_hE5NnaKGuQ2-Qh1h9O9KiBqs9ANfevbpjuz0Sfh07iM-9ftTaSIwz1bHUsQVgvWjIe14BzxhYPOgw)
 
 Es ist ein grauer, verregneter Wintertag, als wir mitten im Wald, im Tierzentrum Bern eintreffen. Gegenwärtig ist nicht viel los, einige Autos stehen auf dem Parkplatz vor dem Tierzentrum und Fahrräder reihen sich sauber im Fahrradständer. Das Gelände selbst ist weitläufig, aber von einem hohen Zaun umschlossen. 
@@ -25,7 +29,7 @@ Dem Tierzentrum Bern sind angemessene Haltungsbedingungen sehr wichtig. Deswegen
 
 Jil Heiman betont demgegenüber, wie wichtig es sei, dass das Tierzentrum Bern seine Verantwortung für angemessene Haltungsbedingungen ernst nimmt, auch wenn das zuweilen auf Unverständnis und Kritik stosse. Sie berichtet sogar von Rezensionen, die das Tierheim und seine Praktiken als minderwertig abstempeln: "Es gibt viele Menschen, die sagen, das Tierheim, oder wir, sind einfach schlecht," sagt sie uns. Sie erzählt uns auch von jenen, die sich an den strengen Richtlinien des Tierzentrums stoßen. In den Gängen des Tierzentrums manifestiert sich somit nicht nur die Suche von Menschen nach tierischer Gesellschaft, sondern auch die Herausforderung für die Tierheim-Betreibenden, den Bedürfnissen der Tiere gerecht zu werden und zugleich die Erwartungen der potenziellen neuen Besitzer zu berücksichtigen. 
 
-Es gibt viele Menschen, die sagen, das Tierheim, oder wir, sind einfach schlecht…(Jill Heimann)
+> Es gibt viele Menschen, die sagen, das Tierheim, oder wir, sind einfach schlecht…(Jill Heimann)
 
 ## Das Tierwohl im Fokus 
 
