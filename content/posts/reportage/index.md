@@ -45,6 +45,13 @@ Dem Berner Tierzentrum ist auch sehr wichtig, dass Kinder lernen, wie sie richti
 
 ##### **Wie kann man das Berner Tierzentrum unterstützen?**
 
+```
+{{<box>}}
+##### **Wie kann man das Berner Tierzentrum unterstützen?**
+Da es keine Unterstützung des Kantons erhält, spielen Spenden und Mitgliedschaften für das Tierzentrum eine entscheidende Rolle. Sehr willkommen sind Geldspenden, Futterspenden, aber auch Halsbänder etc. Das Tierzentrum informiert gerne darüber, was aktuell am dringendsten benötigt wird. Ein Anruf genügt!  Besondere Aufmerksamkeit gilt auch dem Chippen von Tieren, da das Tierzentrum viele Findeltiere betreut. Die Kennzeichnung durch einen Mikrochip hilft, verlorene Tiere zu identifizieren und sie sicher zurückzubringen. Jeder Beitrag, ob materiell oder immateriell, trägt dazu bei, das Wohlergehen der Tiere im Berner Tierzentrum zu fördern.
+{{</box>}}
+```
+
 Da es keine Unterstützung des Kantons erhält, spielen Spenden und Mitgliedschaften für das Tierzentrum eine entscheidende Rolle. Sehr willkommen sind Geldspenden, Futterspenden, aber auch Halsbänder etc. Das Tierzentrum informiert gerne darüber, was aktuell am dringendsten benötigt wird. Ein Anruf genügt!  Besondere Aufmerksamkeit gilt auch dem Chippen von Tieren, da das Tierzentrum viele Findeltiere betreut. Die Kennzeichnung durch einen Mikrochip hilft, verlorene Tiere zu identifizieren und sie sicher zurückzubringen. Jeder Beitrag, ob materiell oder immateriell, trägt dazu bei, das Wohlergehen der Tiere im Berner Tierzentrum zu fördern.  
 
 {{</box>}}
