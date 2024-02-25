@@ -44,7 +44,7 @@ Da es keine Unterstützung des Kantons erhält, spielen Spenden und Mitgliedscha
 {{</box>}}
 ```
 
-Wer ein Tier in seiner Familie aufnehmen will, muss einiges beachtet werden. Dass der neue Besitzer gutes Futter hat, das Tier auf Krankheiten und Impfungen abgecheckt ist und am wichtigsten, dass das Tier und die Familie zusammenpassen. Aber das Tierheim selbst muss natürlich ebenfalls einige Dinge beachten, wie dass das Tier gut erzogen ist und die bestmöglichen Chancen hat in der Familie klarzukommen. Das Überprüfen der Passung von Tier und Mensch übernehmen im Tierzentrum Bern Tierpflegende wie Jil. Doch bevor ein Tier vermittelt werden kann, sind viele andere Dinge nötig. 
+**Wer** ein Tier in seiner Familie aufnehmen will, muss einiges beachtet werden. Dass der neue Besitzer gutes Futter hat, das Tier auf Krankheiten und Impfungen abgecheckt ist und am wichtigsten, dass das Tier und die Familie zusammenpassen. Aber das Tierheim selbst muss natürlich ebenfalls einige Dinge beachten, wie dass das Tier gut erzogen ist und die bestmöglichen Chancen hat in der Familie klarzukommen. Das Überprüfen der Passung von Tier und Mensch übernehmen im Tierzentrum Bern Tierpflegende wie Jil. Doch bevor ein Tier vermittelt werden kann, sind viele andere Dinge nötig. 
 
 Als Erstes die Aufnahme. Im Tierzentrum gibt es einen Raum, zu dem die Polizei uneingeschränkten Zugriff hat, denn es ist häufig sie, die ein Tier zum Tierzentrum bringen. Es ist ein kleiner Raum mit zwei kleinen Räumen für Hunde und einigen Gehegen für Katzen und Kleintiere, ausserdem ist er mit genug Grundausstattung wie Essen, Trinken, Katzenklo ausgestattet.  
 
