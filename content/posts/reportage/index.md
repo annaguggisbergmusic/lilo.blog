@@ -6,18 +6,6 @@ pinned = false
 +++
 # Zwischen Hoffnung und Zuhause: Die Rettungstätigkeit des Berner Tierzentrums
 
-```
-{{<lead>}}
-In der heutigen Welt, in der Millionen von Tieren ausgesetzt werden und auf der Strasse leben, bieten Tierheime nicht nur ein Dach über dem Kopf, sondern auch eine Chance auf ein neues Leben und ein liebevolles Zuhause. 
-{{</lead>}}
-```
-
-```
-{{<lead>}}
-Mit ihren offenen Türen für diejenigen, die verloren, vernachlässigt oder misshandelt wurden, haben Tierheime eine entscheidende Funktion für den Tierschutz und die Förderung von Adoptionen. Doch hinter den Mauern dieser Einrichtungen verbirgt sich weit mehr als nur temporäre Unterbringungsinstitution. Tierheime sind Orte der Hoffnung, des Mitgefühls und der Chance auf ein neues Leben für jedes Wesen, welches aufgenommen wird. 
-{{</lead>}}
-```
-
 \
 Anna Guggisberg, Sarah Potjer ![](https://lh7-us.googleusercontent.com/WSf5tWKqbyccq6QJTeybJCmaQHzpFj8sg1UCLxRLzGdfga4tMUsKqOWNvcZH-KF11NQ6xhR7_hE5NnaKGuQ2-Qh1h9O9KiBqs9ANfevbpjuz0Sfh07iM-9ftTaSIwz1bHUsQVgvWjIe14BzxhYPOgw)
 
@@ -51,8 +39,6 @@ Dem Berner Tierzentrum ist auch sehr wichtig, dass Kinder lernen, wie sie richti
 Da es keine Unterstützung des Kantons erhält, spielen Spenden und Mitgliedschaften für das Tierzentrum eine entscheidende Rolle. Sehr willkommen sind Geldspenden, Futterspenden, aber auch Halsbänder etc. Das Tierzentrum informiert gerne darüber, was aktuell am dringendsten benötigt wird. Ein Anruf genügt!  Besondere Aufmerksamkeit gilt auch dem Chippen von Tieren, da das Tierzentrum viele Findeltiere betreut. Die Kennzeichnung durch einen Mikrochip hilft, verlorene Tiere zu identifizieren und sie sicher zurückzubringen. Jeder Beitrag, ob materiell oder immateriell, trägt dazu bei, das Wohlergehen der Tiere im Berner Tierzentrum zu fördern.
 {{</box>}}
 ```
-
-
 
 Wer ein Tier in seiner Familie aufnehmen will, muss einiges beachtet werden. Dass der neue Besitzer gutes Futter hat, das Tier auf Krankheiten und Impfungen abgecheckt ist und am wichtigsten, dass das Tier und die Familie zusammenpassen. Aber das Tierheim selbst muss natürlich ebenfalls einige Dinge beachten, wie dass das Tier gut erzogen ist und die bestmöglichen Chancen hat in der Familie klarzukommen. Das Überprüfen der Passung von Tier und Mensch übernehmen im Tierzentrum Bern Tierpflegende wie Jil. Doch bevor ein Tier vermittelt werden kann, sind viele andere Dinge nötig. 
 
