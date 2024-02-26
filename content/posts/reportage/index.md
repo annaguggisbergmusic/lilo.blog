@@ -22,8 +22,6 @@ Dem Tierzentrum Bern sind angemessene Haltungsbedingungen sehr wichtig. Deswegen
 
 Jil Heiman betont demgegenüber, wie wichtig es sei, dass das Tierzentrum Bern seine Verantwortung für angemessene Haltungsbedingungen ernst nimmt, auch wenn das zuweilen auf Unverständnis und Kritik stosse. Sie berichtet sogar von Rezensionen, die das Tierheim und seine Praktiken als minderwertig abstempeln: "Es gibt viele Menschen, die sagen, das Tierheim, oder wir, sind einfach schlecht," sagt sie uns. Sie erzählt uns auch von jenen, die sich an den strengen Richtlinien des Tierzentrums stoßen. In den Gängen des Tierzentrums manifestiert sich somit nicht nur die Suche von Menschen nach tierischer Gesellschaft, sondern auch die Herausforderung für die Tierheim-Betreibenden, den Bedürfnissen der Tiere gerecht zu werden und zugleich die Erwartungen der potenziellen neuen Besitzer zu berücksichtigen.
 
-
-
 >  Es gibt viele Menschen, die sagen, das Tierheim, oder wir, sind einfach schlecht…(Jill Heimann)
 
 ## Das Tierwohl im Fokus 
@@ -51,6 +49,8 @@ Wer ein Tier in seiner Familie aufnehmen will, muss einiges beachtet werden. Das
 Als Erstes die Aufnahme. Im Tierzentrum gibt es einen Raum, zu dem die Polizei uneingeschränkten Zugriff hat, denn es ist häufig sie, die ein Tier zum Tierzentrum bringen. Es handelt sich um einen kompakten Raum, der zwei kleine Bereiche für Hunde sowie einige Käfige für Katzen und andere kleine Tiere enthält. Zusätzlich ist er mit allen grundlegenden Bedürfnissen wie Futter, Wasser und Katzenklos ausgestattet.
 
 Am Tag nach ihrer Aufnahme werden die Tiere von den Tierpflegenden versorgt. Der örtliche Tierarzt untersucht die Neulinge und stellt sicher, dass sie keine Krankheiten und Infektionen haben. Wenn die Tiere gesund sind, werden sie zu ihren Artgenossen gelassen, wo sie täglich betreut werden, bis sie eine passende Familie gefunden haben.
+
+![Das ist Maddox der ehemalige Pflegehund von Jil Heimann. (Vom Berner Tierschutz, Tierwelt Ausgabe 36](madox12.jpg)
 
  Das spezielle System für Hunde erleichtert ihre schrittweise Wiedereingliederung in die Gesellschaft. Alle Tierpflegenden bekommen einen Pflegehund , sie gewöhnen den Hund langsam wieder an die Umgebung. Bei der Zuweisung der Hunde wird, so gut es geht, auf die Kompatibilität von Mensch und Hund geachtet.
 
