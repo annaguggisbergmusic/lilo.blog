@@ -60,6 +60,8 @@ Gibt es viele Tierheime, die voll besetzt sind? Habt ihr Platzmangel?
 
 Es kommt immer auf die Jahreszeit an. Im Winter haben wir meistens weniger Katzen, jetzt über Neujahr haben wir sehr viele gefundene Tiere. Oder im Frühling, da haben wir so viele Babykatzen. Manche bringen sie zu uns, weil sie einfach mit den Babys nicht klarkommen oder dann finden wir sie irgendwo. Wir bemerken es schon stark, aber oft kommt es einfach auf die Jahreszeit an.
 
+> Es ist einfach, ich mag sehr gerne Tiere.  Bei mir war auch von Anfang an klar, dass ich mit Tieren arbeiten möchte. Also habe ich mich hier beworben (Jil Heiman)
+
 Am Ende dieser informationsreichen Unterhaltung mit Jil Heimann im Tierzentrum Bern wird eines klar: Die Bedeutung von Tierheimen und die Notwendigkeit des Tierschutzes sind unbestreitbar. Ihre Einblicke haben uns gezeigt, wie wichtig es ist, sich für das Wohl unserer tierischen Freunde einzusetzen. Von der Vorliebe für Tiere, bis hin zur Frage nach der Adoption haben wir die Vielfalt und die dringende Notwendigkeit des Engagements für unsere pelzigen Freunde beleuchtet. 
 
 Inmitten des lebhaften Treibens des Tierzentrums Bern wird deutlich, dass jede Handlung, sei es groß oder klein, einen Unterschied machen kann. Es liegt an uns allen, das Bewusstsein für den Tierschutz zu fördern und aktiv dazu beizutragen, dass Tiere ein liebevolles Zuhause finden und ein erfülltes Leben führen können.
