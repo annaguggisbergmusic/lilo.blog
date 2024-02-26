@@ -4,10 +4,14 @@ date = "2024-02-20"
 draft = false
 pinned = false
 +++
+{{<lead>}}
+
 In der heutigen Welt, in der Millionen von Tieren ausgesetzt werden und auf der Strasse leben, bieten Tierheime nicht nur ein Dach über dem Kopf, sondern auch eine Chance auf ein neues Leben und ein liebevolles Zuhause. 
 
 Mit ihren offenen Türen für diejenigen, die verloren, vernachlässigt oder misshandelt wurden, haben Tierheime eine entscheidende Funktion für den Tierschutz und die Förderung von Adoptionen. Doch hinter den Mauern dieser Einrichtungen verbirgt sich weit mehr als nur temporäre Unterbringungsinstitution. Tierheime sind Orte der Hoffnung, des Mitgefühls und der Chance auf ein neues Leben für jedes Wesen, welches aufgenommen wird. 
 
+{{</lead>}}\
+\
 Anna Guggisberg, Sarah Potjer ![](https://lh7-us.googleusercontent.com/PeQZGS6qaXGr7habLxM-kJAa7EazOJjXLF0wYB-ag4YaLgTSfB70kGgLOq9cqBR_kGhv9ky_BAs00GsvEW74AeHTLKzRJ-kHYysFlHAnEEap73K2jGCL239f90IHka4PnrKVFZ5WbjWgW2gz0pw9KA)
 
 Es ist ein grauer, verregneter Wintertag, als wir mitten im Wald, im Tierzentrum Bern eintreffen. Gegenwärtig ist nicht viel los, einige Autos stehen auf dem Parkplatz vor dem Tierzentrum und Fahrräder reihen sich sauber im Fahrradständer. Das Gelände selbst ist weitläufig, aber von einem hohen Zaun umschlossen. 
