@@ -6,7 +6,9 @@ pinned = false
 image = "screenshot-2024-02-26-at-11.38.57.jpeg"
 description = "In mitten des lebhaften Treibens im Tierzentrum Bern eröffnet uns Jil Heimann, eine angehende Tierpflegerin im dritten Lehrjahr, Einblicke in ihre Motivation und die Herausforderungen des Tierzentrums. Von der  Vorliebe für Tiere bis zur Frage nach der Adoption beleuchtet sie die Vielfalt und die dringende Notwendigkeit des Engagements für unsere pelzigen Freunde."
 +++
-In mitten des lebhaften Treibens im Tierzentrum Bern eröffnet uns Jil Heimann, eine angehende Tierpflegerin im dritten Lehrjahr, Einblicke in ihre Motivation und die Herausforderungen des Tierzentrums. Von der  Vorliebe für Tiere bis zur Frage nach der Adoption beleuchtet sie die Vielfalt und die dringende Notwendigkeit des Engagements für unsere pelzigen Freunde.
+{{<lead>}} In mitten des lebhaften Treibens im Tierzentrum Bern eröffnet uns Jil Heimann, eine angehende Tierpflegerin im dritten Lehrjahr, Einblicke in ihre Motivation und die Herausforderungen des Tierzentrums. Von der  Vorliebe für Tiere bis zur Frage nach der Adoption beleuchtet sie die Vielfalt und die dringende Notwendigkeit des Engagements für unsere pelzigen Freunde. {{</lead>}}
+
+
 
 Anna Guggisberg, Sarah Potjer
 
