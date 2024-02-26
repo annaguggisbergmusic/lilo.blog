@@ -67,7 +67,7 @@ Am Tag nach ihrer Aufnahme werden die Tiere von den Tierpflegenden versorgt. Der
 
  Das spezielle System für Hunde erleichtert ihre schrittweise Wiedereingliederung in die Gesellschaft. Alle Tierpflegenden bekommen einen Pflegehund , sie gewöhnen den Hund langsam wieder an die Umgebung. Bei der Zuweisung der Hunde wird, so gut es geht, auf die Kompatibilität von Mensch und Hund geachtet.
 
-  Auch Jil Heimann hatte schon einige Pflegehunde, darunter auch Problemhunde wie Maddox. Maddox ist ein Mischlingshund aus Rumänien und wurde von Jil als Pflegehund aufgenommen. Er hatte unter anderem Schwierigkeiten mit anderen Hunden und musste fast alles von neu auf erlernen. Jil hat über ein Jahr mit Maddox trainiert und ihm so die für ihn neue und gefährliche Welt näher gebracht. 
+Auch Jil Heimann hatte schon einige Pflegehunde, darunter auch Problemhunde wie Maddox. Maddox ist ein Mischlingshund aus Rumänien und wurde von Jil als Pflegehund aufgenommen. Er hatte unter anderem Schwierigkeiten mit anderen Hunden und musste fast alles von neu auf erlernen. Jil hat über ein Jahr mit Maddox trainiert und ihm so die für ihn neue und gefährliche Welt näher gebracht. 
 
 “Maddox kam schon zwei Mal von einem Probewohnen zurück,” berichtet Jil,” beim ersten Mal war er einfach zu wenig ausgelastet und hat Dinge kaputt gemacht. Ich hatte ihn schon öfters bei mir und dann war er ruhig, aber das liegt vermutlich daran, dass ich ihn richtig ausgelastet habe. Beim zweiten Mal war er zu kompliziert mit den anderen Hunden und die Frau, bei der er war, wusste nicht mehr weiter.” Das Training mit Maddox hat sich aber ausgezahlt, denn er hat im Januar 2024 eine neue Familie gefunden. 
 
