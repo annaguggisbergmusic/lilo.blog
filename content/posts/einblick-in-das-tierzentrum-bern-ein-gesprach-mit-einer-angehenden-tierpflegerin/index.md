@@ -22,6 +22,8 @@ Beim Betreten der lichtdurchfluteten Eingangshalle, kommt einem Gezwitscher und 
 
 Es ist einfach, ich mag sehr gerne Tiere.  Bei mir war auch von Anfang an klar, dass ich mit Tieren arbeiten möchte. Also habe ich mich hier beworben. 
 
+> Es ist einfach, ich mag sehr gerne Tiere.  Bei mir war auch von Anfang an klar, dass ich mit Tieren arbeiten möchte. Also habe ich mich hier beworben (Jil Heiman)
+
 ### Bemerkt man einen grossen Unterschied bei Rassehunden und Mischlingen?
 
 Es gibt Rassen, welche beliebter sind und es gibt Rassen, welche unbeliebter sind. Diesen Unterschied bemerkt man schon. Also zum Beispiel Chihuahuas oder Labrador, sie finden meistens sehr schnell wieder ein Zuhause. Dann haben wir natürlich solche wie Mastiff, Pitbulls also solche Hunde welche dann meistens länger bei uns bleiben. 
