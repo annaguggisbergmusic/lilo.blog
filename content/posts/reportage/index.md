@@ -14,7 +14,9 @@ Mit ihren offenen Türen für diejenigen, die verloren, vernachlässigt oder mis
 
 {{</lead>}}\
 \
-Anna Guggisberg, Sarah Potjer ![](https://lh7-us.googleusercontent.com/PeQZGS6qaXGr7habLxM-kJAa7EazOJjXLF0wYB-ag4YaLgTSfB70kGgLOq9cqBR_kGhv9ky_BAs00GsvEW74AeHTLKzRJ-kHYysFlHAnEEap73K2jGCL239f90IHka4PnrKVFZ5WbjWgW2gz0pw9KA)
+Anna Guggisberg, Sarah Potjer 
+
+![Bild einer Tierheimkatze der Berner-Tierwelt-Ausgabe-29-2020-mit-176.-Jahresbericht](img_8825.png)
 
 Es ist ein grauer, verregneter Wintertag, als wir mitten im Wald, im Tierzentrum Bern eintreffen. Gegenwärtig ist nicht viel los, einige Autos stehen auf dem Parkplatz vor dem Tierzentrum und Fahrräder reihen sich sauber im Fahrradständer. Das Gelände selbst ist weitläufig, aber von einem hohen Zaun umschlossen. 
 
