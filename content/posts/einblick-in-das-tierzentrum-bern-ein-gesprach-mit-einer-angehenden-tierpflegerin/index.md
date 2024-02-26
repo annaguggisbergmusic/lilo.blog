@@ -8,7 +8,7 @@ In mitten des lebhaften Treibens im Tierzentrum Bern eröffnet uns Jil Heimann, 
 
 Anna Guggisberg, Sarah Potjer
 
-![Jil Heimann, Tierpflegerin im 3 Lehrjahr mit einem ihrer Pflegehund.](screenshot-2024-02-26-at-11.38.57.jpeg)
+![Jil Heimann, Tierpflegerin im 3 Lehrjahr mit einem ihrer Pflegehunde.](screenshot-2024-02-26-at-11.38.57.jpeg)
 
 Beim Betreten der lichtdurchfluteten Eingangshalle, kommt einem Gezwitscher und Bellen entgegen, es ist nicht sehr laut, aber füllt doch den ganzen Raum. Neben dem breiten Thresen, steht eine junge Frau welche uns freundlich anlächelt. Es handelt sich um Jil Heimann, sie arbeitet im Tierzentrum Bern als Tierpflegerin EFZ im dritten Lernjahr. Was sie genau im Tierzentrum macht und wie eine Adoption verläuft, erzählt Jil uns in einem kleinen Raum, in dem normalerweise Adoptionsverfahren besprochen werden.   
 
@@ -16,31 +16,21 @@ Beim Betreten der lichtdurchfluteten Eingangshalle, kommt einem Gezwitscher und 
 
 Es ist einfach, ich mag sehr gerne Tiere.  Bei mir war auch von Anfang an klar, dass ich mit Tieren arbeiten möchte. Also habe ich mich hier beworben. 
 
-
-
 ### Bemerkt man einen grossen Unterschied bei Rassehunden und Mischlingen?
 
 Es gibt Rassen, welche beliebter sind und es gibt Rassen, welche unbeliebter sind. Diesen Unterschied bemerkt man schon. Also zum Beispiel Chihuahuas oder Labrador, sie finden meistens sehr schnell wieder ein Zuhause. Dann haben wir natürlich solche wie Mastiff, Pitbulls also solche Hunde welche dann meistens länger bei uns bleiben. 
-
-
 
 ### Welches Tier hat im Tierheim den Schwerpunkt? Welche Tiere habt ihr am meisten?
 
 Wir haben im Tierheim Hunde, Katzen und Kleintiere. Als Kleintiere gelten zum Beispiel Vögel, Kaninchen oder sonstige Nager. Wir haben ganz kleine Nagetiere wie Gerbils, Mäuse und Ratten. 
 
-
-
 ### Wie würdest du sagen, können Menschen am besten den Tierschutz unterstützen?
 
 Wir werden nicht vom Kanton unterstützt, wir werden also nur von Spenden oder Mitgliedschaft unterstützt. Also wenn man uns unterstützen will, geht es auf diesem Weg oder mit materiellen Spenden, für diese Spenden sind wir auch immer sehr dankbar. Sonst einfach auf sein Tier acht geben, Katzen und Hunde chippen, auch wenn es bei Katzen kein muss ist, macht es doch Sinn.   
 
-
-
 ### Gibt es Vorschriften für Hunde, müssen sie kastriert sein?
 
 Es gibt keine Vorschriften, also kein Gesetz, von dem ich wüsste. Also wenn man mit seinem Hund nicht gerade züchten will, sollte man eine Kastration in Erwägung ziehen.  
-
-
 
 ### Warum findest du, dass Adoptionen aus einem Tierheim eine gute Option sind oder findest du, dass ein Züchter auch eine gute Option wäre?
 
@@ -61,6 +51,7 @@ Die Dauer der Adoption hängt von verschiedenen Faktoren ab, wie die Kompatibili
 {{</box>}}
 
 ### \
+
 Gibt es viele Tierheime, die voll besetzt sind? Habt ihr Platzmangel?
 
 Es kommt immer auf die Jahreszeit an. Im Winter haben wir meistens weniger Katzen, jetzt über Neujahr haben wir sehr viele gefundene Tiere. Oder im Frühling, da haben wir so viele Babykatzen. Manche bringen sie zu uns, weil sie einfach mit den Babys nicht klarkommen oder dann finden wir sie irgendwo. Wir bemerken es schon stark, aber oft kommt es einfach auf die Jahreszeit an.
