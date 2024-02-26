@@ -63,7 +63,7 @@ Als Erstes die Aufnahme. Im Tierzentrum gibt es einen Raum, zu dem die Polizei u
 
 Am Tag nach ihrer Aufnahme werden die Tiere von den Tierpflegenden versorgt. Der örtliche Tierarzt untersucht die Neulinge und stellt sicher, dass sie keine Krankheiten und Infektionen haben. Wenn die Tiere gesund sind, werden sie zu ihren Artgenossen gelassen, wo sie täglich betreut werden, bis sie eine passende Familie gefunden haben.
 
-![Das ist Maddox der ehemalige Pflegehund von Jil Heimann. (Vom Berner Tierschutz, Tierwelt Ausgabe 36](madox12.jpg)
+![Das ist Maddox der ehemalige Pflegehund von Jil Heimann. (Foto von dem Berner Tierschutz, Tierwelt Ausgabe 36)](madox12.jpg)
 
  Das spezielle System für Hunde erleichtert ihre schrittweise Wiedereingliederung in die Gesellschaft. Alle Tierpflegenden bekommen einen Pflegehund , sie gewöhnen den Hund langsam wieder an die Umgebung. Bei der Zuweisung der Hunde wird, so gut es geht, auf die Kompatibilität von Mensch und Hund geachtet.
 
