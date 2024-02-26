@@ -6,9 +6,11 @@ pinned = false
 image = "screenshot-2024-02-26-at-11.38.57.jpeg"
 description = "In mitten des lebhaften Treibens im Tierzentrum Bern eröffnet uns Jil Heimann, eine angehende Tierpflegerin im dritten Lehrjahr, Einblicke in ihre Motivation und die Herausforderungen des Tierzentrums. Von der  Vorliebe für Tiere bis zur Frage nach der Adoption beleuchtet sie die Vielfalt und die dringende Notwendigkeit des Engagements für unsere pelzigen Freunde."
 +++
-{{<lead>}} In mitten des lebhaften Treibens im Tierzentrum Bern eröffnet uns Jil Heimann, eine angehende Tierpflegerin im dritten Lehrjahr, Einblicke in ihre Motivation und die Herausforderungen des Tierzentrums. Von der  Vorliebe für Tiere bis zur Frage nach der Adoption beleuchtet sie die Vielfalt und die dringende Notwendigkeit des Engagements für unsere pelzigen Freunde. {{</lead>}}
+{{<lead>}} 
 
+In mitten des lebhaften Treibens im Tierzentrum Bern eröffnet uns Jil Heimann, eine angehende Tierpflegerin im dritten Lehrjahr, Einblicke in ihre Motivation und die Herausforderungen des Tierzentrums. Von der  Vorliebe für Tiere bis zur Frage nach der Adoption beleuchtet sie die Vielfalt und die dringende Notwendigkeit des Engagements für unsere pelzigen Freunde. 
 
+{{</lead>}}
 
 Anna Guggisberg, Sarah Potjer
 
@@ -53,8 +55,6 @@ Die Dauer des Adoptionsverfahrens kann stark variieren. Bei Hunden kann es beisp
 Die Dauer der Adoption hängt von verschiedenen Faktoren ab, wie die Kompatibilität des Tieres und des Menschen, aber auch die medizinische Verfassung des Tieres.\
 \
 {{</box>}}
-
-### \
 
 Gibt es viele Tierheime, die voll besetzt sind? Habt ihr Platzmangel?
 
