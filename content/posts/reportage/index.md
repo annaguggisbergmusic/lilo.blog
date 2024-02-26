@@ -65,7 +65,7 @@ Am Tag nach ihrer Aufnahme werden die Tiere von den Tierpflegenden versorgt. Der
 
 ![Das ist Maddox der ehemalige Pflegehund von Jil Heimann. (Foto von dem Berner Tierschutz, Tierwelt Ausgabe 36)](madox12.jpg)
 
- Das spezielle System für Hunde erleichtert ihre schrittweise Wiedereingliederung in die Gesellschaft. Alle Tierpflegenden bekommen einen Pflegehund , sie gewöhnen den Hund langsam wieder an die Umgebung. Bei der Zuweisung der Hunde wird, so gut es geht, auf die Kompatibilität von Mensch und Hund geachtet.
+Das spezielle System für Hunde erleichtert ihre schrittweise Wiedereingliederung in die Gesellschaft. Alle Tierpflegenden bekommen einen Pflegehund , sie gewöhnen den Hund langsam wieder an die Umgebung. Bei der Zuweisung der Hunde wird, so gut es geht, auf die Kompatibilität von Mensch und Hund geachtet.
 
 Auch Jil Heimann hatte schon einige Pflegehunde, darunter auch Problemhunde wie Maddox. Maddox ist ein Mischlingshund aus Rumänien und wurde von Jil als Pflegehund aufgenommen. Er hatte unter anderem Schwierigkeiten mit anderen Hunden und musste fast alles von neu auf erlernen. Jil hat über ein Jahr mit Maddox trainiert und ihm so die für ihn neue und gefährliche Welt näher gebracht. 
 
