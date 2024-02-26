@@ -3,12 +3,14 @@ title = "Einblick in das Tierzentrum Bern: Ein Gespräch mit einer angehenden Ti
 date = "2024-02-26"
 draft = false
 pinned = false
+image = "screenshot-2024-02-26-at-11.38.57.jpeg"
+description = "In mitten des lebhaften Treibens im Tierzentrum Bern eröffnet uns Jil Heimann, eine angehende Tierpflegerin im dritten Lehrjahr, Einblicke in ihre Motivation und die Herausforderungen des Tierzentrums. Von der  Vorliebe für Tiere bis zur Frage nach der Adoption beleuchtet sie die Vielfalt und die dringende Notwendigkeit des Engagements für unsere pelzigen Freunde."
 +++
 In mitten des lebhaften Treibens im Tierzentrum Bern eröffnet uns Jil Heimann, eine angehende Tierpflegerin im dritten Lehrjahr, Einblicke in ihre Motivation und die Herausforderungen des Tierzentrums. Von der  Vorliebe für Tiere bis zur Frage nach der Adoption beleuchtet sie die Vielfalt und die dringende Notwendigkeit des Engagements für unsere pelzigen Freunde.
 
 Anna Guggisberg, Sarah Potjer
 
-![Jil Heimann, Tierpflegerin im 3 Lehrjahr mit einem ihrer Pflegehunde.](screenshot-2024-02-26-at-11.38.57.jpeg)
+![Dies ist Jil Heimann. Sie ist im dritten Lernjahr und posiert hier mit einem ihrer Pflegehunde.](screenshot-2024-02-26-at-11.38.57.jpeg)
 
 Beim Betreten der lichtdurchfluteten Eingangshalle, kommt einem Gezwitscher und Bellen entgegen, es ist nicht sehr laut, aber füllt doch den ganzen Raum. Neben dem breiten Thresen, steht eine junge Frau welche uns freundlich anlächelt. Es handelt sich um Jil Heimann, sie arbeitet im Tierzentrum Bern als Tierpflegerin EFZ im dritten Lernjahr. Was sie genau im Tierzentrum macht und wie eine Adoption verläuft, erzählt Jil uns in einem kleinen Raum, in dem normalerweise Adoptionsverfahren besprochen werden.   
 
