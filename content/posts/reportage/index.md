@@ -3,7 +3,7 @@ title = "Zwischen Hoffnung und Zuhause: Die Rettungstätigkeit des Berner Tierze
 date = "2024-02-20"
 draft = false
 pinned = false
-image = "img_8825.png"
+image = "https://www.simpleimageresizer.com/_uploads/photos/860f6acc/Image_1_3_1_51.jpg"
 description = "In der heutigen Welt, in der Millionen von Tieren ausgesetzt werden und auf der Strasse leben, bieten Tierheime nicht nur ein Dach über dem Kopf, sondern auch eine Chance auf ein neues Leben und ein liebevolles Zuhause. \n\nMit ihren offenen Türen für diejenigen, die verloren, vernachlässigt oder misshandelt wurden, haben Tierheime eine entscheidende Funktion für den Tierschutz und die Förderung von Adoptionen. Doch hinter den Mauern dieser Einrichtungen verbirgt sich weit mehr als nur temporäre Unterbringungsinstitution. Tierheime sind Orte der Hoffnung, des Mitgefühls und der Chance auf ein neues Leben für jedes Wesen, welches aufgenommen wird."
 +++
 {{<lead>}}
